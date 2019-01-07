@@ -1,0 +1,19 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 17345852
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 30315449
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 32815849
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 35472835
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 50317562
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 言語を選ぶ, 205646549
+helloworld.Gengo, Text: Gengo sentaku/セレクトランゲッジ, System.Windows.Forms.Button, Text: RETURN, 513602188
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 戻る, 706591276
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 719561476
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: から揚げカレー
+（中）, 805821028
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: 戻る, 832542139
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: はいからうどん, 994802989
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: はいからうどん, 1026368874
+helloworld.Notax, Text: 価格の確認, System.Windows.Forms.Button, Text: 171円, 1043558146
+helloworld.Tax, Text: 現在の税率は8％, System.Windows.Forms.Button, Text: 180円, 1069810980
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 購入を続ける, 1114973249
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 1121847695

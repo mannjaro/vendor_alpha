@@ -1,0 +1,23 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 7735206
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 16029073
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 19085502
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 戻る, 538932240
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 547966528
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 戻る, 555464120
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 562525132
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 言語を選ぶ, 584356386
+helloworld.Gengo, Text: Gengo sentaku/セレクトランゲッジ, System.Windows.Forms.Button, Text: RETURN, 698695498
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 言語を選ぶ, 1047144018
+helloworld.Gengo, Text: Gengo sentaku/セレクトランゲッジ, System.Windows.Forms.Button, Text: RETURN, 1276055205
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 言語を選ぶ, 1300597150
+helloworld.Gengo, Text: Gengo sentaku/セレクトランゲッジ, System.Windows.Forms.Button, Text: RETURN, 1314534863
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 戻る, 1328031401
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 1337227778
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 1344678298
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: チキンカツ
+（小）, 1355973534
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: チキンカツ（小）, 1369554214
+helloworld.Notax, Text: 価格の確認, System.Windows.Forms.Button, Text: 190円, 1378050786
+helloworld.Tax, Text: 現在の税率は8％, System.Windows.Forms.Button, Text: 200円, 1383966962
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 終了する, 1400351030

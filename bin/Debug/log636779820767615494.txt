@@ -1,0 +1,22 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 7156453
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 13848549
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 17945240
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: から揚げカレー
+（大）, 149700866
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: から揚げカレー（大）, 249288867
+helloworld.Notax, Text: 価格の確認, System.Windows.Forms.Button, Text: 476円, 265469997
+helloworld.Tax, Text: 現在の税率は8％, System.Windows.Forms.Button, Text: 500円, 289547587
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 購入を続ける, 328649931
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 341287632
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 345136610
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 天丼
+（中）, 914987476
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: 戻る, 1015691470
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 温泉玉子, 1067684912
+helloworld.Meal, Text: 品名の確認, System.Windows.Forms.Button, Text: 温泉玉子, 1305689231
+helloworld.Notax, Text: 価格の確認, System.Windows.Forms.Button, Text: 57円, 1546338811
+helloworld.Tax, Text: 現在の税率は8％, System.Windows.Forms.Button, Text: 60円, 1698023106
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 購入を続ける, 1801047748
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 購入をやめる, 1813531818
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 終了する, 1825926488

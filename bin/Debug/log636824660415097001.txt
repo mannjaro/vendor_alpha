@@ -1,0 +1,6 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 13218722
+helloworld.Form2, Text: 無題ページ, System.Windows.Forms.Button, Text: ログのみ, 40827074
+helloworld.Form2, Text: 無題ページ, System.Windows.Forms.Button, Text: 次へ移動, 50813411
+helloworld.Form2, Text: 無題ページ, System.Windows.Forms.Button, Text: 次へ移動, 84589648
+helloworld.Form3, Text: 無題ページ, System.Windows.Forms.Button, Text: 終了, 95840900

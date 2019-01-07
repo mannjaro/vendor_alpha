@@ -1,0 +1,213 @@
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\bin\Release\helloworld.exe.manifest
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\bin\Release\helloworld.application
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\bin\Release\helloworld.exe
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\bin\Release\helloworld.pdb
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\ResolveAssemblyReference.cache
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.Form1.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.Form2.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.Form3.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.formEnd.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.Form_orig.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.insertMoney.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.selectMenu.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.TrustInfo.xml
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.exe.manifest
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.application
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.exe
+C:\Users\実験用\Desktop\インタフェースプロトタイプb\vendor\vendor\helloworld\obj\Release\helloworld.pdb
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.exe
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.pdb
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\bin\Release\helloworld.exe.manifest
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\bin\Release\helloworld.application
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\bin\Release\helloworld.exe
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\bin\Release\helloworld.pdb
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\ResolveAssemblyReference.cache
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.Form1.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.Form2.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.Form3.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.formEnd.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.Form_orig.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.insertMoney.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.selectMenu.resources
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.TrustInfo.xml
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.exe.manifest
+C:\Users\実験用\Desktop\インタフェースプロトタイプa\vendor\vendor\helloworld\obj\Release\helloworld.application
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.exe
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.pdb
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\bin\Release\helloworld.exe.manifest
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\bin\Release\helloworld.application
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\bin\Release\helloworld.exe
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\bin\Release\helloworld.pdb
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.Form1.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.Form2.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.Form3.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.formEnd.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.Form_orig.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.insertMoney.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.selectMenu.resources
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.TrustInfo.xml
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.exe.manifest
+C:\Users\Matsuura\Dropbox\M1\インタフェースプロトタイプ\vendor_a\vendor_a\vendor_a\helloworld\obj\Release\helloworld.application
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.exe
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.pdb
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\bin\Release\helloworld.exe.manifest
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\bin\Release\helloworld.application
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\bin\Release\helloworld.exe
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\bin\Release\helloworld.pdb
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Form1.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Form2.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Form3.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.formEnd.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Form_orig.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.insertMoney.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Meal.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Notax.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.selectMenu.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.Tax.resources
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.TrustInfo.xml
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.exe.manifest
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\helloworld.application
+C:\Users\shared\Desktop\完成品\完成品\vendor_a\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\Marcy\Desktop\HI\vendor_a\bin\Release\helloworld.exe.manifest
+C:\Users\Marcy\Desktop\HI\vendor_a\bin\Release\helloworld.application
+C:\Users\Marcy\Desktop\HI\vendor_a\bin\Release\helloworld.exe
+C:\Users\Marcy\Desktop\HI\vendor_a\bin\Release\helloworld.pdb
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Form1.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Form2.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Form3.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.formEnd.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Form_orig.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.insertMoney.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Meal.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Notax.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.selectMenu.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.Tax.resources
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.TrustInfo.xml
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.exe.manifest
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.application
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.exe
+C:\Users\Marcy\Desktop\HI\vendor_a\obj\Release\helloworld.pdb
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.exe
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.pdb
+C:\Users\hi\Desktop\vendor_a\bin\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\vendor_a\bin\Release\helloworld.application
+C:\Users\hi\Desktop\vendor_a\bin\Release\helloworld.exe
+C:\Users\hi\Desktop\vendor_a\bin\Release\helloworld.pdb
+C:\Users\hi\Desktop\vendor_a\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Form1.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Form2.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Form3.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.formEnd.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Form_orig.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.insertMoney.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Meal.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Notax.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.selectMenu.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.Tax.resources
+C:\Users\hi\Desktop\vendor_a\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.TrustInfo.xml
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\vendor_a\obj\Release\helloworld.application
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.exe
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.pdb
+C:\Users\hi\Desktop\hi_hamano\bin\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\hi_hamano\bin\Release\helloworld.application
+C:\Users\hi\Desktop\hi_hamano\bin\Release\helloworld.exe
+C:\Users\hi\Desktop\hi_hamano\bin\Release\helloworld.pdb
+C:\Users\hi\Desktop\hi_hamano\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Form1.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Form2.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Form3.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.formEnd.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Form_orig.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.insertMoney.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Meal.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Notax.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.selectMenu.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.Tax.resources
+C:\Users\hi\Desktop\hi_hamano\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.TrustInfo.xml
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\hi_hamano\obj\Release\helloworld.application
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.exe
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.pdb
+C:\Users\hi\Desktop\vendor_a(hamano)\bin\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\vendor_a(hamano)\bin\Release\helloworld.application
+C:\Users\hi\Desktop\vendor_a(hamano)\bin\Release\helloworld.exe
+C:\Users\hi\Desktop\vendor_a(hamano)\bin\Release\helloworld.pdb
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Form1.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Form2.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Form3.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.formEnd.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Form_orig.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.insertMoney.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Meal.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Notax.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.selectMenu.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.Tax.resources
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.TrustInfo.xml
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.exe.manifest
+C:\Users\hi\Desktop\vendor_a(hamano)\obj\Release\helloworld.application
+C:\Users\Yuki Takeda\Desktop\vendor_a\bin\Release\helloworld.exe.manifest
+C:\Users\Yuki Takeda\Desktop\vendor_a\bin\Release\helloworld.application
+C:\Users\Yuki Takeda\Desktop\vendor_a\bin\Release\helloworld.exe
+C:\Users\Yuki Takeda\Desktop\vendor_a\bin\Release\helloworld.pdb
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\vendor_a.csprojResolveAssemblyReference.cache
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Form1.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Form2.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Form3.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.formEnd.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Form_orig.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.insertMoney.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Meal.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Notax.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.selectMenu.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.Tax.resources
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\vendor_a.csproj.GenerateResource.Cache
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\vendor_a.csproj.CoreCompileInputs.cache
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.TrustInfo.xml
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.exe.manifest
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.application
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.exe
+C:\Users\Yuki Takeda\Desktop\vendor_a\obj\Release\helloworld.pdb
+C:\Users\honda\Downloads\vendor_a\vendor_a\bin\Release\helloworld.exe.manifest
+C:\Users\honda\Downloads\vendor_a\vendor_a\bin\Release\helloworld.application
+C:\Users\honda\Downloads\vendor_a\vendor_a\bin\Release\helloworld.exe
+C:\Users\honda\Downloads\vendor_a\vendor_a\bin\Release\helloworld.pdb
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\vendor_a.csprojAssemblyReference.cache
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Form1.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Form2.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Form3.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.formEnd.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Form_orig.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.insertMoney.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Meal.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Notax.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Properties.Resources.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.selectMenu.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.Tax.resources
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\vendor_a.csproj.GenerateResource.cache
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\vendor_a.csproj.CoreCompileInputs.cache
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.TrustInfo.xml
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.exe.manifest
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.application
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.exe
+C:\Users\honda\Downloads\vendor_a\vendor_a\obj\Release\helloworld.pdb
