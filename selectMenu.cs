@@ -42,9 +42,7 @@ namespace helloworld
                 money = tempMoney;
                 return;
             }
-            Meal newform = new Meal();
-            newform.Show();
-            this.Dispose();
+            
         }
 
         private void label3_Click(object sender, EventArgs e)

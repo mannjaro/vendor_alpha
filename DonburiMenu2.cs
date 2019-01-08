@@ -5,14 +5,12 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using Microsoft.VisualBasic.FileIO;
-
 
 namespace helloworld
 {
-    public partial class DonburiMenu : helloworld.Form_orig
+    public partial class DonburiMenu2 : helloworld.Form_orig
     {
-        public DonburiMenu()
+        public DonburiMenu2()
         {
             InitializeComponent();
             textBox2.Text = money.ToString();
@@ -20,26 +18,27 @@ namespace helloworld
         private string[,] csvData;
         private Button[] buttons;
         float fontSize = 14f;
+
         public string[,] CSVData
         {
             get { return this.csvData; }
             set { this.csvData = value; }
         }
-        private void DonburiMenu_Load(object sender, EventArgs e)
+
+        private void DonburiMenu2_Load(object sender, EventArgs e)
         {
-            this.buttons = new Button[16];
-            for (int i = 0; i < 16; i++)
+            this.buttons = new Button[11];
+            for (int i = 0; i < 11; i++)
             {
                 this.buttons[i] = new Button();
 
-                this.buttons[i].Name = csvData[0, i + 25];
-                this.buttons[i].Text = csvData[1, i + 25] + "\n" + csvData[2, i + 25];
+                this.buttons[i].Text = csvData[1, i + 41] + "\n" + csvData[2, i + 41];
                 this.buttons[i].Top = 100 * i;
-                this.buttons[i].Size = new Size (200, 110);
+                this.buttons[i].Size = new Size(200, 110);
                 this.buttons[i].Font = new Font(buttons[i].Font.OriginalFontName, fontSize);
                 this.buttons[i].Click += new System.EventHandler(btnclick);
 
-                if (money >= int.Parse(csvData[2,i + 25]))
+                if (money >= int.Parse(csvData[2, i + 25]))
                 {
                     this.buttons[i].BackColor = Color.Orange;
                 }
@@ -52,43 +51,28 @@ namespace helloworld
             }
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
         private void btnclick(object sender, System.EventArgs e)
         {
             this.log(this, sender, e);
 
             Button btn = (Button)sender;
-            Check newForm = new Check();
-           
-            newForm.CSVData = this.csvData;
-            newForm.CSVIndex = int.Parse(btn.Name);
-            newForm.Show();
-            
-
-            this.Dispose();
-            
+            MessageBox.Show(btn.Name);
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void button2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             this.log(this, sender, e);
 
-            selectMenu newForm = new selectMenu();
+            DonburiMenu newForm = new DonburiMenu();
+            newForm.CSVData = this.csvData;
             newForm.Show();
             this.Dispose();
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -100,15 +84,18 @@ namespace helloworld
             this.Dispose();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             this.log(this, sender, e);
 
-           DonburiMenu2 newForm = new DonburiMenu2();
-           newForm.CSVData = this.csvData;
-           newForm.Show();
-           this.Dispose();
+            selectMenu newForm = new selectMenu();
+            newForm.Show();
+            this.Dispose();
         }
 
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

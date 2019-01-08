@@ -1,0 +1,7 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 4964916
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 500, 10579170
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 15454017
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 丼・カレー, 20488345
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: カツカレー（中）
+390, 24347745

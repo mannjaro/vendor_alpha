@@ -295,3 +295,26 @@ C:\Users\takus\Desktop\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.exe.ma
 C:\Users\takus\Desktop\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.application
 C:\Users\takus\Desktop\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.exe
 C:\Users\takus\Desktop\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.pdb
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\bin\Debug\helloworld.exe.manifest
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\bin\Debug\helloworld.application
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\bin\Debug\helloworld.exe
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\bin\Debug\helloworld.pdb
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\vendor_a.csprojAssemblyReference.cache
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.DonburiMenu.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Form1.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Form2.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Form3.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.formEnd.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Form_orig.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.insertMoney.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Properties.Resources.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.selectMenu.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\vendor_a.csproj.GenerateResource.cache
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\vendor_a.csproj.CoreCompileInputs.cache
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.TrustInfo.xml
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.exe.manifest
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.application
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.exe
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.pdb
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.DonburiMenu2.resources
+C:\Users\takus\Documents\Visual Studio 2017\vendor_alpha0107\vendor_alpha\obj\Debug\helloworld.Check.resources
