@@ -59,6 +59,7 @@ namespace helloworld
 
             //To DonburiMenu
             DonburiMenu newForm = new DonburiMenu();
+            newForm.CSVData = this.csvData;
             newForm.Show();
             this.Dispose();
         }

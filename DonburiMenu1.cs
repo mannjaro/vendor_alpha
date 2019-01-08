@@ -16,15 +16,28 @@ namespace helloworld
         {
             InitializeComponent();
             textBox2.Text = money.ToString();
-            
-
         }
+        private string[,] csvData;
         private Button[] buttons;
         float fontSize = 14f;
         int i = 0;
+        public string[,] CSVData
+        {
+            get { return this.csvData; }
+            set { this.csvData = value; }
+        }
         private void DonburiMenu_Load(object sender, EventArgs e)
         {
-           
+            this.buttons = new Button[16];
+            for (int i = 0; i < 16; i++)
+            {
+                this.buttons[i] = new Button();
+
+                this.buttons[i].Text = csvData[1, i + 31];
+                this.buttons[i].Top = 100 * i;
+
+                flowLayoutPanel1.Controls.Add(this.buttons[i]);
+            }
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -73,5 +86,6 @@ namespace helloworld
            // newForm.Show();
            // this.Dispose();
         }
+
     }
 }
