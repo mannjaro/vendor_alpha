@@ -32,13 +32,14 @@ namespace helloworld
             {
                 this.buttons[i] = new Button();
 
+                this.buttons[i].Name = csvData[0, i + 41];
                 this.buttons[i].Text = csvData[1, i + 41] + "\n" + csvData[2, i + 41];
                 this.buttons[i].Top = 100 * i;
                 this.buttons[i].Size = new Size(200, 110);
                 this.buttons[i].Font = new Font(buttons[i].Font.OriginalFontName, fontSize);
                 this.buttons[i].Click += new System.EventHandler(btnclick);
 
-                if (money >= int.Parse(csvData[2, i + 25]))
+                if (money >= int.Parse(csvData[2, i + 41]))
                 {
                     this.buttons[i].BackColor = Color.Orange;
                 }
@@ -56,7 +57,15 @@ namespace helloworld
             this.log(this, sender, e);
 
             Button btn = (Button)sender;
-            MessageBox.Show(btn.Name);
+            Check newForm = new Check();
+
+            newForm.CSVData = this.csvData;
+            newForm.CSVIndex = int.Parse(btn.Name);
+            newForm.Show();
+
+
+            this.Dispose();
+
         }
 
 

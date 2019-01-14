@@ -1,0 +1,39 @@
+Application, Window Text, Action Object, Object Text, Time(1 = 100 nanosec)
+helloworld.Form1, Text: 実験開始, System.Windows.Forms.Button, Text: 実験を開始する, 6942916
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 500, 12437282
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 15723919
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 丼・カレー, 22626862
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: キーマカレー（小）
+350, 29582888
+helloworld.Check, Text: 無題ページ, System.Windows.Forms.Button, Text: 購入する, 39845906
+helloworld.formEnd, Text: 購入結果, System.Windows.Forms.Button, Text: 購入を続ける, 51338306
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 100, 56980221
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 60541485
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 丼・カレー, 67206061
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: 次のページ, 79886823
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: 前のページ, 88083469
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: 次のページ, 98130282
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: カツ丼（大）
+500, 119010972
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: カツ丼（大）
+500, 135053470
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: 前のページ, 162352762
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: カレー（小）
+220, 177774611
+helloworld.Check, Text: 無題ページ, System.Windows.Forms.Button, Text: キャンセル, 186063351
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: カレー（小）
+220, 195383999
+helloworld.Check, Text: 無題ページ, System.Windows.Forms.Button, Text: キャンセル, 206104108
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: 次のページ, 212933072
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: カツ丼（大）
+500, 222587639
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: TOPへ戻る, 246843692
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 丼・カレー, 269465178
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: 入金画面, 276072374
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 1000, 283298302
+helloworld.insertMoney, Text: お金を入れる, System.Windows.Forms.Button, Text: 食券を選ぶ, 286520757
+helloworld.selectMenu, Text: 購入したい食券を選択してください, System.Windows.Forms.Button, Text: 丼・カレー, 291619075
+helloworld.DonburiMenu, Text: 無題ページ, System.Windows.Forms.Button, Text: 次のページ, 300223055
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: 豚塩カルビ丼（小）
+350, 307384708
+helloworld.DonburiMenu2, Text: 無題ページ, System.Windows.Forms.Button, Text: 前のページ, 320172975
