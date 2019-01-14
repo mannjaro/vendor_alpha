@@ -56,5 +56,33 @@ namespace helloworld
         {
 
         }
+
+        private void 購入する_Click(object sender, EventArgs e)
+        {
+            this.log(this, sender, e);
+
+            formEnd newForm = new formEnd();
+            item_name = label1.Text;
+            money -= int.Parse(label3.Text);
+            newForm.Show();
+            this.Dispose();
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.log(this, sender, e);
+            
+            if(csvIndex > 1 && csvIndex < 26)
+            {
+                
+            } else if(csvIndex >= 26 && csvIndex < 56)
+            {
+                DonburiMenu newForm = new DonburiMenu();
+                newForm.CSVData = this.csvData;
+                newForm.Show();
+                this.Dispose();
+            }
+        }
     }
 }
